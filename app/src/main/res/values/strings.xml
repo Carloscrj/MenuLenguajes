@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ActividadUF4_2</string>
+    <string name="btnCambiarTamanio">CAMBIAR TAMAÑO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentInicio">HOLA MUNDO</string>
+    <string name="mn_java">JAVA</string>
+    <string name="mn_python">PYTHON</string>
+    <string name="mn_salir">SALIR</string>
+    <string name="confirmar_salir">¿Desea cerrar la aplicación?</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="tv_tam">Indicar tamaño</string>
+    <string name="title">Dimensiones</string>
+    <string name="error_datos">Datos vacios o erroneos(no se pueden entroducir numeros negativos)</string>
+    <string name="fragmentPython"><![CDATA[tv_frag_python\">#!/usr/bin/env python\n# -- coding: utf-8 --\nprint(\"¡Hola mundo!\")</string>]]></string>
+    <string name="fragmentJava"><![CDATA[tv_frag_java\">public class HelloWorld {\n\tpublic static void main(String args[]) {\n\t\tSystem.out.println(\"¡Hola Mundo!\");\n\t}\n}</string>]]></string>
+    <string name="tv_java">public class HelloWorld {\n\tpublic static void main(String args[]) {\n\t\tSystem.out.println(\"¡Hola Mundo!\");\n\t}\n}</string>
+    <string name="tv_python">#!/usr/bin/env python\n# -- coding: utf-8 --\nprint(\"¡Hola mundo!\")</string>
+</resources>
